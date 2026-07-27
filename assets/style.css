@@ -93,6 +93,14 @@ main{width:min(1080px,calc(100% - 36px));margin:0 auto 64px}
 .review-comment{margin:7px 0;font-size:14px;line-height:1.8}
 .review-scores{display:flex;flex-wrap:wrap;gap:7px;margin:0;font-size:11px}
 .review-scores span{padding:3px 9px;border-radius:100px;background:var(--mint-tint);color:var(--leaf);font-weight:700}
+.review-card{border-bottom:1px solid var(--line)}
+.review-card-link{display:flex;gap:15px;padding:15px 4px;color:inherit;text-decoration:none;transition:.15s}
+.review-card-link:hover{background:var(--mint-tint)}
+.review-card-link:hover .card-title{color:var(--leaf)}
+.review-excerpt{display:block;margin-top:5px;font-size:13px;color:var(--muted);line-height:1.7}
+.review-card .review-scores{margin-top:7px}
+.block-more{font-size:12px;font-weight:700;color:var(--leaf);text-decoration:none;white-space:nowrap}
+.block-more:hover{text-decoration:underline}
 .review-invite{padding:22px;background:var(--mint-tint);border:1px dashed var(--mint);border-radius:14px;margin-bottom:18px}
 .review-invite-lead{margin:0 0 8px;font-size:12px;font-weight:900;letter-spacing:.1em;color:var(--leaf)}
 .review-invite p{margin:0 0 8px;font-size:14px;line-height:1.85}

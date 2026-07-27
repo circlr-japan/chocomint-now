@@ -75,6 +75,26 @@ main{width:min(1080px,calc(100% - 36px));margin:0 auto 64px}
 .cal td a{color:var(--ink);text-decoration:none;font-weight:700}
 .cal td a:hover{color:var(--leaf)}
 .cal-note{font-size:13px;color:var(--muted);margin:0 0 10px}
+.reviews{padding-top:40px}
+.review-summary{display:flex;flex-wrap:wrap;align-items:center;gap:26px;padding:20px;background:var(--card);border:1px solid var(--line);border-radius:16px;margin-bottom:20px}
+.radar-wrap{flex:none;width:250px;color:var(--choco)}
+.radar{width:100%;height:auto}
+.score-list{flex:1;min-width:190px;list-style:none;margin:0;padding:0}
+.score-list li{display:flex;align-items:baseline;gap:8px;padding:7px 0;border-bottom:1px solid var(--line);font-size:14px}
+.score-list span{flex:1;font-weight:700;color:var(--deep)}
+.score-list b{font-size:19px;color:var(--leaf)}
+.score-list i{font-style:normal;font-size:11px;color:var(--muted)}
+.review{display:flex;gap:15px;padding:15px 0;border-bottom:1px solid var(--line)}
+.review-photo{flex:none;width:132px;height:99px;object-fit:cover;border-radius:12px;background:var(--mint-soft)}
+.review-body{min-width:0;flex:1}
+.review-meta{display:flex;flex-wrap:wrap;align-items:center;gap:9px;margin:0;font-size:12px;color:var(--muted)}
+.review-meta b{font-size:14px;color:var(--ink)}
+.review-rank{padding:2px 9px;border-radius:100px;background:var(--mint-soft);font-size:10px;font-weight:800;color:var(--deep)}
+.review-comment{margin:7px 0;font-size:14px;line-height:1.8}
+.review-scores{display:flex;flex-wrap:wrap;gap:7px;margin:0;font-size:11px}
+.review-scores span{padding:3px 9px;border-radius:100px;background:var(--mint-tint);color:var(--leaf);font-weight:700}
+.review-note{padding:16px;background:var(--mint-tint);border-radius:12px;font-size:13px;color:var(--muted)}
+@media(max-width:640px){.radar-wrap{width:100%;max-width:280px;margin:0 auto}.review-photo{width:96px;height:72px}}
 .empty{padding:36px;border:1px dashed var(--line);border-radius:14px;text-align:center;color:var(--muted)}
 .subscribe{background:linear-gradient(135deg,var(--mint-soft),var(--mint-tint));padding:46px max(20px,calc((100vw - 1080px)/2))}
 .subscribe-inner{max-width:1080px;margin:0 auto;text-align:center}

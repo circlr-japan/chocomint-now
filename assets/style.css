@@ -69,6 +69,15 @@ main{width:min(1080px,calc(100% - 36px));margin:0 auto 64px}
 .cal td a:hover{color:var(--leaf)}
 .cal-note{font-size:13px;color:var(--muted);margin:0 0 10px}
 .empty{padding:36px;border:1px dashed var(--line);border-radius:14px;text-align:center;color:var(--muted)}
+.subscribe{background:linear-gradient(135deg,var(--mint-soft),var(--mint-tint));padding:46px max(20px,calc((100vw - 1080px)/2))}
+.subscribe-inner{max-width:1080px;margin:0 auto;text-align:center}
+.subscribe h2{margin:4px 0 10px;font-size:26px;color:var(--choco)}
+.subscribe p{margin:0 0 6px;font-size:14px;color:var(--ink)}
+.subscribe-buttons{display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin-top:20px}
+.subscribe-buttons a{display:inline-block;padding:14px 30px;border-radius:100px;font-size:15px;font-weight:800;color:#fff;text-decoration:none;transition:.2s}
+.subscribe-buttons a:hover{transform:translateY(-2px);box-shadow:0 10px 22px #1f534930}
+.btn-line{background:#06C755}
+.btn-discord{background:#5865F2}
 .site-footer{padding:34px max(20px,calc((100vw - 1080px)/2));background:var(--deep);color:#fff}
 .site-footer p,.site-footer small{color:#b6cbc5;font-size:12px}.site-footer p{margin:5px 0 0}
 .footnav{display:flex;flex-wrap:wrap;gap:16px;margin:16px 0}.footnav a{color:#fff;font-size:13px}

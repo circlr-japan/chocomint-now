@@ -61,6 +61,13 @@ main{width:min(1080px,calc(100% - 36px));margin:0 auto 64px}
 .article .note{margin-top:26px;padding:13px 15px;background:var(--mint-tint);border-radius:10px;font-size:12px;color:var(--muted)}
 .article-row{align-items:flex-start}
 .article-desc{display:block;margin-top:6px;font-size:13px;font-weight:400;color:var(--muted);line-height:1.7}
+.cal{width:100%;border-collapse:collapse;font-size:14px;background:var(--card);border-radius:12px;overflow:hidden}
+.cal th,.cal td{padding:12px 14px;border-bottom:1px solid var(--line);text-align:left}
+.cal thead th{background:var(--mint-tint);font-weight:800;color:var(--deep)}
+.cal-date{white-space:nowrap;font-weight:800;color:var(--leaf)}
+.cal td a{color:var(--ink);text-decoration:none;font-weight:700}
+.cal td a:hover{color:var(--leaf)}
+.cal-note{font-size:13px;color:var(--muted);margin:0 0 10px}
 .empty{padding:36px;border:1px dashed var(--line);border-radius:14px;text-align:center;color:var(--muted)}
 .site-footer{padding:34px max(20px,calc((100vw - 1080px)/2));background:var(--deep);color:#fff}
 .site-footer p,.site-footer small{color:#b6cbc5;font-size:12px}.site-footer p{margin:5px 0 0}

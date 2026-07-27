@@ -93,6 +93,8 @@ main{width:min(1080px,calc(100% - 36px));margin:0 auto 64px}
 .review-comment{margin:7px 0;font-size:14px;line-height:1.8}
 .review-scores{display:flex;flex-wrap:wrap;gap:7px;margin:0;font-size:11px}
 .review-scores span{padding:3px 9px;border-radius:100px;background:var(--mint-tint);color:var(--leaf);font-weight:700}
+.review-badge{display:inline-block;margin-left:auto;padding:2px 9px;border-radius:100px;background:var(--mint);font-size:10px;font-weight:800;color:var(--choco)}
+.tile-foot{display:flex;align-items:center;gap:8px}
 .review-note{padding:16px;background:var(--mint-tint);border-radius:12px;font-size:13px;color:var(--muted)}
 @media(max-width:640px){.radar-wrap{width:100%;max-width:280px;margin:0 auto}.review-photo{width:96px;height:72px}}
 .empty{padding:36px;border:1px dashed var(--line);border-radius:14px;text-align:center;color:var(--muted)}

@@ -40,6 +40,8 @@ main{width:min(1080px,calc(100% - 36px));margin:0 auto 64px}
 .quote{margin:0;padding:16px 18px;background:var(--card);border-left:5px solid var(--mint-soft);border-radius:0 12px 12px 0;font-size:14px}
 .quote cite{display:block;margin-top:9px;font-size:11px;font-style:normal;color:var(--muted)}
 .source-link{margin:24px 0 10px}
+.source-link{display:flex;flex-wrap:wrap;gap:10px}
+.source-link a.sub{background:var(--card);border:1px solid var(--line);color:var(--deep)}
 .source-link a{display:inline-block;padding:13px 26px;border-radius:100px;background:var(--deep);color:#fff;font-weight:800;text-decoration:none}
 .source-link a:hover{background:var(--choco)}
 .note{font-size:12px;color:var(--muted)}

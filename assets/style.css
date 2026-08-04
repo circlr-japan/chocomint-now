@@ -136,7 +136,9 @@ main{width:min(1080px,calc(100% - 36px));margin:0 auto 64px}
 .tile a{display:flex;flex-direction:column;height:100%;color:inherit;text-decoration:none}
 .tile-thumb{position:relative;display:block;aspect-ratio:4/3;background:var(--mint-soft)}
 .tile-thumb img{width:100%;height:100%;object-fit:cover}
-.tile-thumb .thumb-empty{display:grid;place-items:center;width:100%;height:100%;font-size:40px}
+.tile-thumb .thumb-generated{display:block;width:100%;height:100%;object-fit:cover}
+.detail-image-generated svg{width:100%;max-width:420px;border-radius:14px}
+.thumb-empty{display:grid;place-items:center;width:100%;height:100%;font-size:40px}
 .tile-thumb .badge{position:absolute;top:10px;left:10px}
 .tile-body{display:flex;flex-direction:column;gap:7px;padding:13px 14px 15px;flex:1}
 .tile .meta{gap:7px}

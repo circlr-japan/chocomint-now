@@ -46,6 +46,11 @@ main{width:min(1080px,calc(100% - 36px));margin:0 auto 64px}
 .spec th{width:32%;background:var(--mint-tint);font-weight:700;color:var(--deep)}
 .quote{margin:0;padding:16px 18px;background:var(--card);border-left:5px solid var(--mint-soft);border-radius:0 12px 12px 0;font-size:14px}
 .quote cite{display:block;margin-top:9px;font-size:11px;font-style:normal;color:var(--muted)}
+.also-note{font-size:13px;color:var(--muted);margin:0 0 10px}
+.also-list{margin:0;padding:0;list-style:none;display:grid;gap:8px}
+.also-list li{padding:11px 14px;border:1px solid var(--line);border-radius:10px;background:var(--card)}
+.also-list a{font-weight:700;font-size:14px;line-height:1.6}
+.also-src{display:block;margin-top:3px;font-size:12px;color:var(--muted)}
 .source-link{margin:24px 0 10px}
 .source-link{display:flex;flex-wrap:wrap;gap:10px}
 .source-link a.sub{background:var(--card);border:1px solid var(--line);color:var(--deep)}

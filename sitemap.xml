@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.chocomintnow.com/</loc><lastmod>2026-11-21</lastmod></url>
-  <url><loc>https://www.chocomintnow.com/region/national.html</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://www.chocomintnow.com/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://www.chocomintnow.com/region/national.html</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://www.chocomintnow.com/region/hokkaido_tohoku.html</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://www.chocomintnow.com/region/kanto.html</loc><lastmod>2026-09-06</lastmod></url>
-  <url><loc>https://www.chocomintnow.com/topic/ice.html</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://www.chocomintnow.com/topic/ice.html</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://www.chocomintnow.com/topic/sweets.html</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://www.chocomintnow.com/topic/drink.html</loc><lastmod>2026-08-08</lastmod></url>
   <url><loc>https://www.chocomintnow.com/topic/konbini.html</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://www.chocomintnow.com/topic/limited.html</loc><lastmod>2026-10-12</lastmod></url>
   <url><loc>https://www.chocomintnow.com/topic/event.html</loc><lastmod>2026-09-06</lastmod></url>
-  <url><loc>https://www.chocomintnow.com/item/ce7369724d1642c47b7dc873.html</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://www.chocomintnow.com/item/ce7369724d1642c47b7dc873.html</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://www.chocomintnow.com/item/b5721c0d661d01ae4f6026c2.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://www.chocomintnow.com/item/51c07ad03cc308377aa7a976.html</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://www.chocomintnow.com/item/5fcf8adca02126b80e72f0c1.html</loc><lastmod>2026-10-12</lastmod></url>
   <url><loc>https://www.chocomintnow.com/item/8d915390dd5b64f1e86997d3.html</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://www.chocomintnow.com/item/b395fa6edcb9a12e65494692.html</loc><lastmod>2026-09-16</lastmod></url>
   <url><loc>https://www.chocomintnow.com/item/72ad9d1143d6c90f34fd3b96.html</loc><lastmod>2026-09-10</lastmod></url>
   <url><loc>https://www.chocomintnow.com/item/1923deb974088cc059a0d74f.html</loc><lastmod>2026-09-06</lastmod></url>
+  <url><loc>https://www.chocomintnow.com/item/4effcbf5606aabe34b73eac0.html</loc><lastmod>2026-08-27</lastmod></url>
   <url><loc>https://www.chocomintnow.com/item/ec48150a0c96e40e5d94964f.html</loc><lastmod>2026-08-22</lastmod></url>
   <url><loc>https://www.chocomintnow.com/item/c67c1a7c14a51bccde9bec52.html</loc><lastmod>2026-08-08</lastmod></url>
   <url><loc>https://www.chocomintnow.com/item/76b6bfb8b00211312a7f16e5.html</loc><lastmod>2026-08-05</lastmod></url>
@@ -48,9 +51,6 @@
   <url><loc>https://www.chocomintnow.com/item/573d6eac8816e6841ff522ce.html</loc><lastmod>2026-07-03</lastmod></url>
   <url><loc>https://www.chocomintnow.com/item/2c7ab7ce907b2008439ef01e.html</loc><lastmod>2026-07-02</lastmod></url>
   <url><loc>https://www.chocomintnow.com/item/beebb0076716acc2705b7db0.html</loc><lastmod>2026-07-02</lastmod></url>
-  <url><loc>https://www.chocomintnow.com/item/0186c5e877c4910e912c8f07.html</loc><lastmod>2026-07-01</lastmod></url>
-  <url><loc>https://www.chocomintnow.com/item/75e730e3fb108e224f2d3405.html</loc><lastmod>2026-07-01</lastmod></url>
-  <url><loc>https://www.chocomintnow.com/item/005e2df0fdd6077fd5398e6a.html</loc><lastmod>2026-07-01</lastmod></url>
   <url><loc>https://www.chocomintnow.com/item/c6aa37c46fa81b02d6a5fa2d.html</loc><lastmod>2026-06-16</lastmod></url>
   <url><loc>https://www.chocomintnow.com/item/7268ed03e4df67a9c92e0a08.html</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>https://www.chocomintnow.com/item/5f079c5c753f1c73a7c31f33.html</loc><lastmod>2026-06-12</lastmod></url>
@@ -99,15 +99,14 @@
   <url><loc>https://www.chocomintnow.com/article/2026-summer-chocomint.html</loc><lastmod>2026-07-27</lastmod></url>
   <url><loc>https://www.chocomintnow.com/article/konbini-chocomint-2026.html</loc><lastmod>2026-07-27</lastmod></url>
   <url><loc>https://www.chocomintnow.com/articles.html</loc><lastmod>2026-08-06</lastmod></url>
-  <url><loc>https://www.chocomintnow.com/calendar.html</loc><lastmod>2026-11-23</lastmod></url>
-  <url><loc>https://www.chocomintnow.com/list/2026.html</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://www.chocomintnow.com/calendar.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://www.chocomintnow.com/list/2026.html</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://www.chocomintnow.com/fair.html</loc><lastmod>2026-09-06</lastmod></url>
   <url><loc>https://www.chocomintnow.com/local.html</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://www.chocomintnow.com/maker/2ab7ce9e9b.html</loc><lastmod>2026-08-22</lastmod></url>
-  <url><loc>https://www.chocomintnow.com/maker/66897d5328.html</loc><lastmod>2026-07-01</lastmod></url>
-  <url><loc>https://www.chocomintnow.com/search.html</loc><lastmod>2026-11-23</lastmod></url>
-  <url><loc>https://www.chocomintnow.com/tags.html</loc><lastmod>2026-11-23</lastmod></url>
-  <url><loc>https://www.chocomintnow.com/about.html</loc><lastmod>2026-11-23</lastmod></url>
-  <url><loc>https://www.chocomintnow.com/privacy.html</loc><lastmod>2026-11-23</lastmod></url>
-  <url><loc>https://www.chocomintnow.com/contact.html</loc><lastmod>2026-11-23</lastmod></url>
+  <url><loc>https://www.chocomintnow.com/search.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://www.chocomintnow.com/tags.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://www.chocomintnow.com/about.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://www.chocomintnow.com/privacy.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://www.chocomintnow.com/contact.html</loc><lastmod>2026-11-24</lastmod></url>
 </urlset>
